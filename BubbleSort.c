@@ -59,3 +59,7 @@ int main() {
 
     return 0; // Retorna 0 para indicar que o programa terminou com sucesso
 }
+/*SITES PARA ESTUDAR:
+                1 = https://embarcados.com.br/algoritmos-de-ordenacao-bubble-sort/
+                2 = https://blog.betrybe.com/tecnologia/bubble-sort-tudo-sobre/
+                3 = https://www.geeksforgeeks.org/bubble-sort-algorithm/*/
