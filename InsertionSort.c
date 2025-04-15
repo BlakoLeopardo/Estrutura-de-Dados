@@ -28,7 +28,7 @@ void printArray(int arr[], int n)
 {
     // Percorre o array e imprime cada elemento seguido de um espaço
     for (int i = 0; i < n; ++i)
-        printf("%d ", arr[i]);
+        printf("%d\t", arr[i]);
     // Imprime uma quebra de linha após a impressão dos elementos
     printf("\n");
 }
@@ -37,7 +37,7 @@ void printArray(int arr[], int n)
 int main()
 {
     // Declaração e inicialização de um array desordenado
-    int arr[] = { 12, 11, 13, 5, 6 };
+    int arr[] = {64, 34, 25, 12, 22, 11, 90};
     // Calcula o número de elementos do array dividindo o tamanho total pelo tamanho de um elemento
     int n = sizeof(arr) / sizeof(arr[0]);
 

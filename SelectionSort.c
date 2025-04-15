@@ -36,7 +36,7 @@ void printArray(int arr[], int n) {
 
 int main() {
     // Declaração e inicialização do array com os números a serem ordenados
-    int arr[] = {64, 25, 12, 22, 11};
+    int arr[] = {64, 34, 25, 12, 22, 11, 90};
     // Calcula o número de elementos no array
     int n = sizeof(arr) / sizeof(arr[0]);
 
